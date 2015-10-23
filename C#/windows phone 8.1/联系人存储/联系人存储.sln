@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40302.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "联系人存储", "联系人存储\联系人存储.csproj", "{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|ARM.Build.0 = Debug|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|x86.ActiveCfg = Debug|x86
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|x86.Build.0 = Debug|x86
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Debug|x86.Deploy.0 = Debug|x86
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|ARM.ActiveCfg = Release|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|ARM.Build.0 = Release|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|ARM.Deploy.0 = Release|ARM
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|x86.ActiveCfg = Release|x86
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|x86.Build.0 = Release|x86
+		{CBDDB34A-CF11-4849-B50E-7F6CF30A360C}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

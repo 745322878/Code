@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>df4365c3-0467-49b1-9bfd-839161a4f152</PackageIdentityName>
+    <IntermediateOutputPath>E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\联系人存储.exe">
+      <PackagePath>联系人存储.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\1.jpeg">
+      <PackagePath>Assets\1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\ninja.png">
+      <PackagePath>Assets\ninja.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\联系人存储.xr.xml">
+      <PackagePath>联系人存储.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\联系人存储\联系人存储\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

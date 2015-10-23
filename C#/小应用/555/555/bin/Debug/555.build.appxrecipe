@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>3405b930-3b44-4264-95f3-a2884e153f95</PackageIdentityName>
+    <IntermediateOutputPath>F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\555.exe">
+      <PackagePath>555.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\MyTask\bin\Debug\MyTask.winmd">
+      <PackagePath>MyTask.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Assets\a.jpg">
+      <PackagePath>Assets\a.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Assets\b.jpg">
+      <PackagePath>Assets\b.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Assets\c.jpg">
+      <PackagePath>Assets\c.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Assets\d.jpg">
+      <PackagePath>Assets\d.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Assets\f.jpg">
+      <PackagePath>Assets\f.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\1.png">
+      <PackagePath>MusicPhoto\1.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\10.png">
+      <PackagePath>MusicPhoto\10.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\11.png">
+      <PackagePath>MusicPhoto\11.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\12.png">
+      <PackagePath>MusicPhoto\12.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\13.png">
+      <PackagePath>MusicPhoto\13.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\14.png">
+      <PackagePath>MusicPhoto\14.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\15.png">
+      <PackagePath>MusicPhoto\15.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\16.png">
+      <PackagePath>MusicPhoto\16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\2.png">
+      <PackagePath>MusicPhoto\2.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\3.png">
+      <PackagePath>MusicPhoto\3.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\4.png">
+      <PackagePath>MusicPhoto\4.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\5.png">
+      <PackagePath>MusicPhoto\5.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\6.png">
+      <PackagePath>MusicPhoto\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\7.png">
+      <PackagePath>MusicPhoto\7.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\8.png">
+      <PackagePath>MusicPhoto\8.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\MusicPhoto\9.png">
+      <PackagePath>MusicPhoto\9.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - A.I.N.Y..mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - A.I.N.Y..mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - We Will Rock You   一无所有   We Are The Champions %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - We Will Rock You   一无所有   We Are The Champions %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 你不是真正的快乐 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 你不是真正的快乐 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 你把我灌醉.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 你把我灌醉.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 偶尔 %28Live Piano Session%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 偶尔 %28Live Piano Session%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 单行的轨道.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 单行的轨道.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 后会无期.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 后会无期.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 喜欢你 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 喜欢你 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 回忆的沙漏.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 回忆的沙漏.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 多远都要在一起.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 多远都要在一起.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 如果没有你 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 如果没有你 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 新的心跳 %28真人秀《极速前进 第二季》主题曲%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 新的心跳 %28真人秀《极速前进 第二季》主题曲%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 春天里 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 春天里 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 泡沫 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 泡沫 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 睡公主.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 睡公主.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\Music\G.E.M. 邓紫棋 - 龙卷风 %28Live%29.mp3">
+      <PackagePath>Music\G.E.M. 邓紫棋 - 龙卷风 %28Live%29.mp3</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\Play.xbf">
+      <PackagePath>Play.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\Storage.xbf">
+      <PackagePath>Storage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\555.xr.xml">
+      <PackagePath>555.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

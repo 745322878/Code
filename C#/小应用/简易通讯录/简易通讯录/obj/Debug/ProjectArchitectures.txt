@@ -1,0 +1,1 @@
+F:\Microsoft Visual Studio 12.0\Myproject\小应用\简易通讯录\简易通讯录\简易通讯录.csproj;neutral

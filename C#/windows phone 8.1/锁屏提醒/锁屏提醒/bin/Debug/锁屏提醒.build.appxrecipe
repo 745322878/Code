@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f09fa138-e25d-4146-8296-11b114907924</PackageIdentityName>
+    <IntermediateOutputPath>F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\锁屏提醒.exe">
+      <PackagePath>锁屏提醒.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\BadgeLogo.scale-240.jpg">
+      <PackagePath>Assets\BadgeLogo.scale-240.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\5.scale-140.png">
+      <PackagePath>Assets\5.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\6.png">
+      <PackagePath>Assets\6.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\锁屏提醒.xr.xml">
+      <PackagePath>锁屏提醒.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\锁屏提醒\锁屏提醒\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,1 @@
+F:\Microsoft Visual Studio 12.0\Myproject\小应用\XML文件存储-记事本\XML文件存储-购物清单\XML文件存储-购物清单.csproj;neutral

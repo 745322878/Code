@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="ComboBox下拉框.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ComboBox下拉框"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel >
+            <!--纯文本的下拉框-->
+            <ComboBox Header="Colors" PlaceholderText="Pick a color">
+                <x:String > Blue
+                </x:String>
+                <x:String >Green
+                </x:String>
+                <x:String >Red
+                </x:String>
+                <x:String >Yellow
+                </x:String>
+            </ComboBox>
+            <!--数据绑定的下拉框-->
+            <ComboBox x:ConnectionId='1' x:Name="comboBox2"                                          >
+                <ComboBox.ItemTemplate >
+                    <DataTemplate >
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="{Binding Name}" FontSize="30"/>
+                            <TextBlock Text="{Binding Age}" Margin="50 10 0 0"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ComboBox.ItemTemplate>
+            </ComboBox>
+            <!--数据绑定的下拉框关闭后，这里显示选中的选项的信息-->
+            <TextBlock x:Name="Info" FontSize="20"/>
+        </StackPanel>
+    </Grid>
+</Page>
+

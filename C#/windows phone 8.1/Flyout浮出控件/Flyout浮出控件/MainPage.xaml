@@ -1,0 +1,54 @@
+﻿<Page
+    x:Class="Flyout浮出控件.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Flyout浮出控件"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel >
+            <!--最基本的Flyout控件，自定义其浮出的内容-->
+            <Button Content="Show Flyout">
+                <Button.Flyout>
+                    <Flyout >
+                        <StackPanel >
+                            <TextBox  PlaceholderText="请输入名字" />
+                            <Button HorizontalAlignment="Center" Content="确定"/>
+                        </StackPanel>
+                    </Flyout>
+                </Button.Flyout>
+            </Button>
+            <!--浮出上下文菜单，点击菜单后改变当前按钮上的文本内容-->
+            <Button x:Name=" menuFlyoutButton" Content=" Show MenuFlyout">
+                <Button.Flyout>
+                    <MenuFlyout >
+                        <MenuFlyoutItem Text="Option 1" Click="MenuFlyoutItem_Click"/>
+                        <MenuFlyoutItem Text="Option 2" Click="MenuFlyoutItem_Click"/>
+                        <MenuFlyoutItem Text="Option 3" Click="MenuFlyoutItem_Click"/>
+                    </MenuFlyout>
+                </Button.Flyout>
+            </Button>
+                <!--浮出选择日起弹窗，单击确定后会触发DatePicked 事件，然后可以获取选中的日期-->
+                <Button Content="Show DatePicker">
+                <Button.Flyout>
+                    <DatePickerFlyout >
+                        
+                        <Controls:DatePickerFlyout Title="选择日期" DataPicked="DatePickerFlyout_DatePicked"/>
+
+                    </DatePickerFlyout>
+                </Button.Flyout>
+            </Button>
+            <Button >
+                <Button Content="Show TimePicker">
+                    <Controls:TimePickerFlyout Title ="选择时间" TimePicked="TimePickerFlyout_TimePicked"/>
+
+
+                </Button>
+            </Button>
+            
+        </StackPanel>
+    </Grid>
+</Page>

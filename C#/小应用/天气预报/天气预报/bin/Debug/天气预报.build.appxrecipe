@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>00059521-6435-44b9-9794-9f6e96e30b7b</PackageIdentityName>
+    <IntermediateOutputPath>F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\天气预报.exe">
+      <PackagePath>天气预报.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\1.jpeg">
+      <PackagePath>Assets\1.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\4.jpg">
+      <PackagePath>Assets\4.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\5.jpg">
+      <PackagePath>Assets\5.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\CitysXmlFile.xml">
+      <PackagePath>CitysXmlFile.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\AddCollectionCity.xbf">
+      <PackagePath>AddCollectionCity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\City.xbf">
+      <PackagePath>City.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\CollectionCity.xbf">
+      <PackagePath>CollectionCity.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\天气预报.xr.xml">
+      <PackagePath>天气预报.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\小应用\天气预报\天气预报\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

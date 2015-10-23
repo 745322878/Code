@@ -1,0 +1,1 @@
+F:\Microsoft Visual Studio 12.0\Myproject\小应用\计算器\布局管理\布局管理.csproj;neutral

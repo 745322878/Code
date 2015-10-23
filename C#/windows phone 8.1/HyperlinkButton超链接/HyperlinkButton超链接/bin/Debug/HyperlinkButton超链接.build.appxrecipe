@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e7ee8098-9389-4ff0-b3b5-6eb4987049f2</PackageIdentityName>
+    <IntermediateOutputPath>E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\HyperlinkButton超链接.exe">
+      <PackagePath>HyperlinkButton超链接.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\HyperlinkButton超链接.xr.xml">
+      <PackagePath>HyperlinkButton超链接.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HyperlinkButton超链接\HyperlinkButton超链接\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

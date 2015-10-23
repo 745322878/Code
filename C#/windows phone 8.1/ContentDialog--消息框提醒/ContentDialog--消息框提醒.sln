@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContentDialog--消息框提醒", "ContentDialog--消息框提醒\ContentDialog--消息框提醒.csproj", "{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|ARM.Build.0 = Debug|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|x86.ActiveCfg = Debug|x86
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|x86.Build.0 = Debug|x86
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Debug|x86.Deploy.0 = Debug|x86
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|ARM.ActiveCfg = Release|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|ARM.Build.0 = Release|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|ARM.Deploy.0 = Release|ARM
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|x86.ActiveCfg = Release|x86
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|x86.Build.0 = Release|x86
+		{CD8D68A2-4DEE-4757-B1E2-6537CE45E14A}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

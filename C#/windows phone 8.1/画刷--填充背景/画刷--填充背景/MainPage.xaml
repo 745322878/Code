@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="画刷__填充背景.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:画刷__填充背景"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel >
+        <Ellipse Height="82" x:Name="ellipsel" StrokeThickness="1" Width="300" Stroke="White" />
+        <TextBlock Height="96" x:Name="textBlock1" Text="TextBlock" FontSize="80"
+                   HorizontalAlignment="Left" />
+        <Rectangle Height="124" HorizontalAlignment="Left" x:Name="rectangle1" Stroke="White" StrokeThickness="1"
+                   Width="327"/>
+        <Ellipse Height="161" HorizontalAlignment="Left" x:Name="ellipsel2" Stroke="White" 
+                 StrokeThickness="1" Width="200"/>
+        <Button Height="100" Width="100" x:Name="btn1" />
+    </StackPanel>
+</Page>
