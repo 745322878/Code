@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="ContentDialog__消息框提醒.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ContentDialog__消息框提醒"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel >
+            <TextBlock Text="ContentDialog" FontSize="50" Foreground="Red" />
+            <Button Background="Blue"  Content="半屏显示"  Width="220" Height="100" FontSize="30" Click="Button_Click"/>
+            <Button Background="Yellow"  Content="全屏显示"  Width="220" Height="100" FontSize="30" Click="Button1_Click"/>
+            <Button Background="Cyan"   Content="自定义显示"  Width="220" Height="100" FontSize="30" Click="Button2_Click"/>
+            <Button Background="Purple"   Content="自定义1显示"  Width="220" Height="100" FontSize="30" Click="Button3_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

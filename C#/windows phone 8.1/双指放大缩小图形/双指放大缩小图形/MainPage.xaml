@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="双指放大缩小图形.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:双指放大缩小图形"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+   <Grid>
+        <Rectangle  Width="100" Height="100" Fill="Red" ManipulationMode="All" ManipulationDelta="Rectangle_ManipulationDelta"  >
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <!--<TranslateTransform x:Name="rectangleTranslateTransform" X="0" Y="0"/>-->
+                    <ScaleTransform x:Name="rectangleScaleTransform" ScaleX="1" ScaleY="1" />
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+        </Rectangle > 
+    </Grid>
+</Page>

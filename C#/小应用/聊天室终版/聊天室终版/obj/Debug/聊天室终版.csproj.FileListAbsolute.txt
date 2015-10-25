@@ -1,0 +1,6 @@
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\bin\Debug\聊天室终版.exe.config
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\obj\Debug\聊天室终版.csprojResolveAssemblyReference.cache
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\bin\Debug\聊天室终版.exe
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\bin\Debug\聊天室终版.pdb
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\obj\Debug\聊天室终版.exe
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室终版\聊天室终版\obj\Debug\聊天室终版.pdb

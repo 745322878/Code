@@ -1,0 +1,60 @@
+﻿<Page
+    x:Class="Hub全景视图控件.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Hub全景视图控件"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Hub >
+            <!--在大标题上添加程序的图标-->
+            <Hub.Header >
+                <StackPanel  Orientation="Horizontal">
+                    <Image Source="Assets/1.jpg" Height="100"/>
+                    <TextBlock Text="我的应用" FontSize="60"/>
+                </StackPanel>
+            </Hub.Header>
+            <!--添加背景图片-->
+            <Hub.Background >
+
+                <ImageBrush ImageSource="windows.png"/>
+            </Hub.Background>
+            <!--第一个页签-->
+            <HubSection Header="first item" Foreground="Red" >
+                <HubSection.ContentTemplate >
+                    <DataTemplate >
+                        <StackPanel >
+                            <TextBlock Text="第一个Item"/>
+                            <TextBlock Text="这是第一个 item！" FontSize="40"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection.ContentTemplate>
+            </HubSection>
+            <!--第二个页签-->
+            <HubSection Header="second item" Foreground="Purple"  >
+                <HubSection.ContentTemplate >
+                    <DataTemplate >
+                        <StackPanel >
+                            <TextBlock Text="这是第二个Item!"/>
+                             <TextBlock Text="这是第一个 item！" FontSize="40"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection.ContentTemplate>
+            </HubSection>
+            <HubSection Header="second item" Foreground="Orange"  >
+                <HubSection.ContentTemplate >
+                    <DataTemplate >
+                        <StackPanel >
+                            <TextBlock Text="这是第三个Item!"/>
+                            <TextBlock Text="这是第三个 item！" FontSize="40"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </HubSection.ContentTemplate>
+            </HubSection>
+        </Hub>
+    </Grid>
+</Page>
+

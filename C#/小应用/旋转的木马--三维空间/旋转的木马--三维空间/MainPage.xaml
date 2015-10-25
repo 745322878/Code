@@ -1,0 +1,62 @@
+﻿<Page
+    x:Class="旋转的木马__三维空间.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:旋转的木马__三维空间"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources >
+        <Storyboard x:Name="rotateX">
+            <DoubleAnimation Storyboard.TargetName="planProjection"
+                             Storyboard.TargetProperty="RotationX"
+                             From="0" To="360" Duration="0:0:5"
+                              RepeatBehavior="Forever"></DoubleAnimation>
+        </Storyboard >
+        <Storyboard x:Name="rotateY">
+            <DoubleAnimation Storyboard.TargetName="planProjection"
+                             Storyboard.TargetProperty="RotationY"
+                             From="0" To="360" Duration="0:0:5"
+                              RepeatBehavior="Forever"></DoubleAnimation>
+        </Storyboard >
+        <Storyboard x:Name="rotateZ">
+            <DoubleAnimation Storyboard.TargetName="planProjection"
+                             Storyboard.TargetProperty="PlaneProjection.RotationZ"
+                             From="0" To="360" Duration="0:0:5"
+                             RepeatBehavior="Forever" ></DoubleAnimation>
+        </Storyboard >
+    </Page.Resources>
+    <Grid >
+        <Grid x:Name="ContentPanel">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+            <TextBlock Name="txtblk" Grid.Row="0"
+                   Text="你开心就好" FontSize="60" HorizontalAlignment="Center"
+                   VerticalAlignment="Center">
+                <TextBlock.Foreground >
+                    <LinearGradientBrush >
+                        <GradientStop Color="Red" Offset="0.14"/>
+                        <GradientStop Color="Orange"  Offset="0.28"/>
+                        <GradientStop Color="Yellow"   Offset="0.42"/>
+                        <GradientStop Color="Green"   Offset="0.56"/>
+                        <GradientStop Color="Blue"   Offset="0.70"/>
+                        <GradientStop Color="Indigo"    Offset="0.84"/>
+                        <GradientStop Color="Purple"   Offset="0.98"/>
+                    </LinearGradientBrush>
+                </TextBlock.Foreground>
+                <TextBlock.Projection >
+                    <PlaneProjection x:Name="planProjection" RotationX="30" RotationY="30" RotationZ="30"
+                                     />
+                </TextBlock.Projection>
+                
+
+            </TextBlock>
+            <!--<Button Grid.Row="1" Grid.Column="0" Width="132" Height="50" Content="旋转-X轴"  Click="ButtonX_Click"/>-->
+            
+        </Grid>
+    </Grid>
+</Page>

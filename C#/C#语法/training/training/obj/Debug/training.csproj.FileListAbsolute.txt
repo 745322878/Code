@@ -1,0 +1,1 @@
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\training\training\bin\Debug\training.exe.config

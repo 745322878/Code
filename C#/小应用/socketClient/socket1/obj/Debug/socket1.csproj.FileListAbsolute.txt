@@ -1,0 +1,5 @@
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\socket1\socket1\bin\Debug\socket1.exe.config
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\socket1\socket1\bin\Debug\socket1.exe
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\socket1\socket1\bin\Debug\socket1.pdb
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\socket1\socket1\obj\Debug\socket1.exe
+E:\Microsoft Visual Studio 12.0\Myproject\C#语法\socket1\socket1\obj\Debug\socket1.pdb

@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="FlyOut.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FlyOut"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel >
+        <Button  Content="测试" Width="200" Height="100" FontSize="50" Background="Red" >
+            <Button.Flyout>
+                <Flyout>
+                    <TextBox  Header="你好:" />
+                </Flyout>
+            </Button.Flyout>
+        </Button>
+        <!--Tapped="TextBlock_Tapped"-->
+        <TextBlock Text="测试TextBlock"  Height="50"  FontSize="50"  >
+            <FlyoutBase.AttachedFlyout>
+                <Flyout>
+                    <TextBox Header="嗨，nice to meet you!"/>
+                </Flyout>
+            </FlyoutBase.AttachedFlyout>
+        </TextBlock>
+        <Button  Content="日期" Width="200" Height="100" FontSize="60" Background="Blue">
+            <Button.Flyout>
+                <DatePickerFlyout  DatePicked="DatePickerFlyout_DatePicked"/>                     
+            </Button.Flyout>
+        </Button>
+    </StackPanel>
+</Page>

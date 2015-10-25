@@ -1,0 +1,7 @@
+﻿<Application
+    x:Class="双指放大缩小图形.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:双指放大缩小图形">
+
+</Application>

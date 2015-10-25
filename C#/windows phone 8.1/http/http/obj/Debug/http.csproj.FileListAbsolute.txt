@@ -1,0 +1,8 @@
+E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\bin\Debug\http.exe.config
+E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\bin\Debug\http.exe
+E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\bin\Debug\http.pdb
+E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\obj\Debug\http.exe
+E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\obj\Debug\http.pdb
+F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\bin\Debug\http.exe.config
+F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\obj\Debug\http.exe
+F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\http\http\obj\Debug\http.pdb

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fab8da19-caf8-47e5-a585-e58ba8802652</PackageIdentityName>
+    <IntermediateOutputPath>F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\触摸放缩图片.exe">
+      <PackagePath>触摸放缩图片.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\3.jpg">
+      <PackagePath>Assets\3.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\触摸放缩图片.xr.xml">
+      <PackagePath>触摸放缩图片.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸放缩图片\触摸放缩图片\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

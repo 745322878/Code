@@ -1,0 +1,23 @@
+﻿<Page
+    x:Class="面向对象__封装2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:面向对象__封装2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel >
+            <TextBlock Text="Name" FontSize="50" Margin="0,20,0,0" Foreground="Orange" />
+            <TextBlock  x:Name="name" Text="GetName"  FontSize="50"/>
+            <Button x:Name="GetName" Content="GetName"  FontSize="50" Width="400" />
+            <Button x:Name="ModifyName" Content="ModifyName"  FontSize="50" Width="400"/>
+            <TextBlock Text="Age" FontSize="50" Margin="0,10,0,0" Foreground="Orange" />
+            <TextBlock  x:Name="age" Text="GetAge"  FontSize="50"/>
+            <Button x:Name="GetAge" Content="GetAge"  FontSize="50" Width="400" />
+            <Button x:Name="ModifyAge"  Content="ModifyAge" FontSize="50" Width="400"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,17 @@
+﻿<Page
+    x:Class="蓝牙2.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:蓝牙2"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel >
+            <Button  x:Name="btFinderBluetooth" Content="查找特定的蓝牙设备" Width="400" Margin="0,100" Click="btFinderBluetooth_Click"/>
+            <Button x:Name="btFinderAllBluetooth" Content="查找周围的蓝牙设备" Width="400" Click="btFinderAllBluetooth_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,31 @@
+﻿<Page
+    x:Class="ScrollViewer滚动试图.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ScrollViewer滚动试图"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    <!--<ScrollViewer Height=" 200" Width=" 200" VerticalScrollBarVisibility="Auto"
+                      HorizontalScrollBarVisibility="Auto">
+            <ScrollViewer.Content>
+                <StackPanel >
+                    <Image Source="Assets\2012712101526110.png" Height="200" Width=" 200"/>
+                </StackPanel>
+            </ScrollViewer.Content>                                                                                                                                                                                                                                                           
+        </ScrollViewer>-->
+
+    <Grid>
+        
+        <StackPanel >
+            <ScrollViewer Name="scrollViewer1" VerticalScrollBarVisibility="Hidden"
+                          Height="300" >
+                <StackPanel Name="stkpnllImage"/>
+            </ScrollViewer>
+            <Button Content="往上" Width="400" FontSize="30"/>
+            <Button Content="往下" FontSize="30" Width="400" />
+            <Button Content="停止" FontSize="30" Width=" 400" />
+        </StackPanel>
+    </Grid>
+</Page>                    
