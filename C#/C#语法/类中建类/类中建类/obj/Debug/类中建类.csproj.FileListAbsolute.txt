@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\bin\Debug\类中建类.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\bin\Debug\类中建类.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\bin\Debug\类中建类.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\obj\Debug\类中建类.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\obj\Debug\类中建类.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\类中建类\类中建类\obj\Debug\类中建类.pdb

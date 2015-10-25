@@ -1,2 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\555\555.csproj;neutral
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\555\MyTask\MyTask.csproj;neutral

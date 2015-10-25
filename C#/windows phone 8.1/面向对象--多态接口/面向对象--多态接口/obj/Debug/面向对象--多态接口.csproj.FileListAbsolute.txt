@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\bin\Debug\面向对象--多态接口.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\obj\Debug\面向对象--多态接口.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\bin\Debug\面向对象--多态接口.exe
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\bin\Debug\面向对象--多态接口.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\obj\Debug\面向对象--多态接口.exe
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\面向对象--多态接口\面向对象--多态接口\obj\Debug\面向对象--多态接口.pdb
