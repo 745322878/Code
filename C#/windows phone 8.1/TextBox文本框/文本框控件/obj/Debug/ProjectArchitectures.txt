@@ -1,1 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\TextBox文本框\文本框控件\文本框控件.csproj;neutral

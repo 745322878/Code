@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\bin\Debug\正则表达式.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\bin\Debug\正则表达式.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\bin\Debug\正则表达式.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\obj\Debug\正则表达式.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\obj\Debug\正则表达式.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\正则表达式\正则表达式\obj\Debug\正则表达式.pdb

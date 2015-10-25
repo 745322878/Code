@@ -1,2 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\11章集合，比较，转换总练习\11章集合，比较，转换总练习\bin\Debug\11章集合，比较，转换总练习.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\11章集合，比较，转换总练习\11章集合，比较，转换总练习\obj\Debug\11章集合，比较，转换总练习.csprojResolveAssemblyReference.cache

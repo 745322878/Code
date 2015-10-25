@@ -1,6 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\bin\Debug\构造函数this.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\bin\Debug\构造函数this.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\bin\Debug\构造函数this.pdb
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\obj\Debug\构造函数this.csprojResolveAssemblyReference.cache
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\obj\Debug\构造函数this.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\构造函数this\构造函数this\obj\Debug\构造函数this.pdb

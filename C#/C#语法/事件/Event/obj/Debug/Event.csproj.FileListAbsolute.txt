@@ -1,6 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\bin\Debug\Event.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\bin\Debug\Event.exe
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\bin\Debug\Event.pdb
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\obj\Debug\Event.csprojResolveAssemblyReference.cache
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\obj\Debug\Event.exe
-E:\Microsoft Visual Studio 12.0\Myproject\Event\Event\obj\Debug\Event.pdb

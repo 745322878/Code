@@ -1,1 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

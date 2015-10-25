@@ -1,1 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Border边框\Border边框\Border边框.csproj;neutral

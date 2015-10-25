@@ -1,8 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\App.g.i.cs
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\App.g.cs
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\MainPage.g.i.cs
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\MainPage.g.cs
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\XamlTypeInfo.g.cs
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\App.xaml
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\App.xbf
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\动态加载Xaml\动态加载Xaml\obj\Debug\XamlSaveStateFile.xml

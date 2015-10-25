@@ -1,5 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\关机客户端\关机客户端\bin\Debug\关机客户端.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\关机客户端\关机客户端\bin\Debug\关机客户端.exe
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\关机客户端\关机客户端\bin\Debug\关机客户端.pdb
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\关机客户端\关机客户端\obj\Debug\关机客户端.exe
-E:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\关机客户端\关机客户端\obj\Debug\关机客户端.pdb

@@ -1,1 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\HttpClient网络编程\HttpClient网络编程\HttpClient网络编程.csproj;neutral
