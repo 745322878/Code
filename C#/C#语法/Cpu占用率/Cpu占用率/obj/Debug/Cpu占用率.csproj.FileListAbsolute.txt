@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\bin\Debug\Cpu占用率.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\bin\Debug\Cpu占用率.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\bin\Debug\Cpu占用率.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\obj\Debug\Cpu占用率.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\obj\Debug\Cpu占用率.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Cpu占用率\Cpu占用率\obj\Debug\Cpu占用率.pdb

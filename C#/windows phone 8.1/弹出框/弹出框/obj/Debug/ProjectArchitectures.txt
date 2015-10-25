@@ -1,1 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\弹出框\弹出框\弹出框.csproj;neutral

@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\bin\Debug\Http.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\obj\Debug\Http.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\bin\Debug\Http.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\bin\Debug\Http.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\obj\Debug\Http.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\Http\Http\obj\Debug\Http.pdb

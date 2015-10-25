@@ -1,5 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室客户端1\聊天室客户端1\bin\Debug\聊天室客户端1.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室客户端1\聊天室客户端1\bin\Debug\聊天室客户端1.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室客户端1\聊天室客户端1\bin\Debug\聊天室客户端1.pdb
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室客户端1\聊天室客户端1\obj\Debug\聊天室客户端1.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\聊天室客户端1\聊天室客户端1\obj\Debug\聊天室客户端1.pdb

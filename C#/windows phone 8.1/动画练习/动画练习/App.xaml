@@ -1,7 +1,0 @@
-﻿<Application
-    x:Class="动画练习.App"
-    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:动画练习">
-
-</Application>

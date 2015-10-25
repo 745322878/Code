@@ -1,6 +1,0 @@
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\bin\Debug\LINQ查询.exe.config
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\bin\Debug\LINQ查询.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\bin\Debug\LINQ查询.pdb
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\obj\Debug\LINQ查询.csprojResolveAssemblyReference.cache
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\obj\Debug\LINQ查询.exe
-E:\Microsoft Visual Studio 12.0\Myproject\C#语法\LINQ查询\LINQ查询\obj\Debug\LINQ查询.pdb
