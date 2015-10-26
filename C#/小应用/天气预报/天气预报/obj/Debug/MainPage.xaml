@@ -120,7 +120,7 @@
             <Setter Property="Template">
                 <Setter.Value>
                     <ControlTemplate TargetType="ListView">
-                        <Border BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}" Background="{TemplateBinding Background}">
+                        <Border   Background="{TemplateBinding Background}">
                             <ScrollViewer x:Name="ScrollViewer" AutomationProperties.AccessibilityView="Raw" BringIntoViewOnFocusChange="{TemplateBinding ScrollViewer.BringIntoViewOnFocusChange}" HorizontalScrollMode="{TemplateBinding ScrollViewer.HorizontalScrollMode}" HorizontalScrollBarVisibility="{TemplateBinding ScrollViewer.HorizontalScrollBarVisibility}" IsHorizontalRailEnabled="{TemplateBinding ScrollViewer.IsHorizontalRailEnabled}" IsHorizontalScrollChainingEnabled="{TemplateBinding ScrollViewer.IsHorizontalScrollChainingEnabled}" IsVerticalScrollChainingEnabled="{TemplateBinding ScrollViewer.IsVerticalScrollChainingEnabled}" IsVerticalRailEnabled="{TemplateBinding ScrollViewer.IsVerticalRailEnabled}" IsDeferredScrollingEnabled="{TemplateBinding ScrollViewer.IsDeferredScrollingEnabled}" TabNavigation="{TemplateBinding TabNavigation}" VerticalScrollBarVisibility="{TemplateBinding ScrollViewer.VerticalScrollBarVisibility}" VerticalScrollMode="{TemplateBinding ScrollViewer.VerticalScrollMode}" ZoomMode="{TemplateBinding ScrollViewer.ZoomMode}">
                                 <ItemsPresenter FooterTransitions="{TemplateBinding FooterTransitions}" FooterTemplate="{TemplateBinding FooterTemplate}" Footer="{TemplateBinding Footer}" HeaderTemplate="{TemplateBinding HeaderTemplate}" Header="{TemplateBinding Header}" HeaderTransitions="{TemplateBinding HeaderTransitions}" HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" Padding="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
                             </ScrollViewer>
@@ -135,7 +135,7 @@
     <Grid>
 
         <!--<Image Source="ms-appx:///Assets/1.jpeg"/>-->
-
+      
         <Grid.RowDefinitions>
             <RowDefinition Height="1*" />
             <RowDefinition  Height="2.5*" />
@@ -234,12 +234,12 @@
             <!--Text="{Binding  temperature}"-->
             <!--</Canvas>-->
         
-        <ListView Name="listWeather" Grid.Row="3" Width="400" Height="190"   Margin="0,0,0,0" Style="{StaticResource ListViewStyle1}">
+        <ListView Name="listWeather" Grid.Row="3" Width="400" Height="190"    Style="{StaticResource ListViewStyle1}">
 
             <ListView.ItemTemplate>
 
                 <DataTemplate >
-                    <Border Height="190" Width="133" BorderThickness="2" BorderBrush="#FF2996AE" HorizontalAlignment="Right">
+                    <Border Height="190" Width="134"  HorizontalAlignment="Right"  >
                         <StackPanel >
                             <TextBlock Text="{Binding  date}" FontSize="20" />
                             <TextBlock Text="{Binding  weather}" FontSize="25"/>
