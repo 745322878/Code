@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\bin\Debug\引用类型.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\bin\Debug\引用类型.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\bin\Debug\引用类型.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\obj\Debug\引用类型.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\obj\Debug\引用类型.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\引用类型\引用类型\obj\Debug\引用类型.pdb

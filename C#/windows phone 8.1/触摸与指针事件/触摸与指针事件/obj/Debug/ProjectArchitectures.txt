@@ -1,1 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\触摸与指针事件\触摸与指针事件\触摸与指针事件.csproj;neutral

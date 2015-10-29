@@ -1,1 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\语音控制\语音控制\语音控制.csproj;neutral

@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\bin\Debug\KMP匹配模式.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\obj\Debug\KMP匹配模式.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\bin\Debug\KMP匹配模式.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\bin\Debug\KMP匹配模式.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\obj\Debug\KMP匹配模式.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C\KMP匹配模式\KMP匹配模式\obj\Debug\KMP匹配模式.pdb
