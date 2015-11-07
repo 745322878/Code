@@ -91,7 +91,7 @@
         </Style>
     </Page.Resources>
 
-    <Grid     >
+    <Grid >
         <Grid.Background >
             <ImageBrush ImageSource="ms-appx:///Assets/1.jpg" />
         </Grid.Background>

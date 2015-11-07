@@ -166,7 +166,7 @@
                                 </VisualStateGroup>
                             </VisualStateManager.VisualStateGroups>
                             <Border x:Name="Border" BorderBrush="{TemplateBinding BorderBrush}"  Background="{TemplateBinding Background}" >
-                                <ContentPresenter FontWeight="Thin" HorizontalAlignment="Left" x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}"  Margin="{TemplateBinding Padding}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
+                                <ContentPresenter FontWeight="Thin" HorizontalAlignment="Left" x:Name="ContentPresenter" AutomationProperties.AccessibilityView="Raw" ContentTemplate="{TemplateBinding ContentTemplate}" Content="{TemplateBinding Content}" Foreground="{TemplateBinding Foreground}"   VerticalAlignment="{TemplateBinding VerticalContentAlignment}"/>
                             </Border>
                         </Grid>
                     </ControlTemplate>
@@ -188,12 +188,13 @@
         </Grid.RowDefinitions>
 
         <!--<TextBlock   Text="搜索一个位置" Margin="20" FontSize="20" Grid.Row="0"/>-->
-     
-        <TextBox x:ConnectionId='1'                                                                           x:Name="textBox" Style="{StaticResource TextBoxStyle1}" Grid.Row="1" />
-        <ListView x:Name="nearCityFiles"  Header="近期搜索" FontSize="30"  Margin="20,0,20,0" Grid.Row="2"  >
+       
+       <TextBox x:ConnectionId='1' Grid.Row="1"                                                                           x:Name="textBox" Style="{StaticResource TextBoxStyle1}" />
+         
+        <ListView  Header="近期搜索" x:Name="nearCityFiles"    FontSize="30"  Margin="20,0,20,0" Grid.Row="2" >
             <ListView.ItemTemplate>
                 <DataTemplate >
-                    <Button x:ConnectionId='2' Content="{Binding city}"                       Width="400" Height="100" FontSize="50" Style="{StaticResource ButtonStyle1}"/>
+                    <Button x:ConnectionId='2'   Content="{Binding city}"                       Width="400" Height="100" FontSize="50" Style="{StaticResource ButtonStyle1}"/>
                     <!--<TextBlock  Text="{Binding  city}" PointerPressed="textBlock_PointerPressed"  Width="360" Height="100" FontSize="50"  />-->
 
                 </DataTemplate>
