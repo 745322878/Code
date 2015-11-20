@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="Multi_touch.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Multi_touch"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <!--<Grid.Background>
+            <SolidColorBrush Color="DodgerBlue" />
+        </Grid.Background>-->
+        <Grid.RowDefinitions>
+            <RowDefinition  Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <StackPanel Grid.Row="0" Margin="12,20,0,28">
+                <TextBlock Text="Manipulation事件测试" FontSize="30"/>
+            <!--ManipulationStarting="Page_Title_ManipulationStarting"-->
+            <!--ManipulationInertiaStarting="Page_Title_ManipulationInertiaStarting"-->
+            <StackPanel Orientation="Horizontal" Background="Yellow" >
+                <!--<TextBlock x:Name="textBlock"  Width="200" Height="300" 
+                       ManipulationMode="All"              
+                       ManipulationStarted="Page_Title_ManipulationStarted"
+                       ManipulationDelta="Page_Title_ManipulationDelta"                 
+                       ManipulationCompleted="Page_Title_ManipulationCompleted"
+                       >
+                </TextBlock>
+                <TextBlock  x:Name="textBlock1" Width="190" Height="300" 
+                           ManipulationMode="All"
+                           ManipulationStarted="TextBlock_ManipulationStarted"
+                           ManipulationDelta="TextBlock_ManipulationDelta"
+                           ManipulationCompleted="TextBlock_ManipulationCompleted">
+                </TextBlock>-->
+                <TextBlock Width="400" Height="300"
+                           ManipulationMode="All"
+                           ManipulationDelta="TextBlock_ManipulationDelta_1"/>
+            </StackPanel>
+        </StackPanel>
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <ListView Name="list" />
+        </Grid>
+    </Grid>
+</Page>
