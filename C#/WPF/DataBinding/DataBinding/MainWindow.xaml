@@ -1,0 +1,11 @@
+﻿<Window x:Class="DataBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="nameTextBox" Text="{Binding Name}"  Margin="50,0,300,200" Height="50"  FontSize="30"/>
+        <Button Content="Age++" Height="50" Width="100"  Margin="250,0,50,200" Click="Button_Click"/>
+        <TextBox x:Name="ageTextBox" Text="{Binding Age}" Margin="50,0,300,50" Height="50" FontSize="30"/>
+        <Button  Content="Show Age" Height="50" Width="100" Margin="250,0,50,50" Click="Button_Click_1"/>
+    </Grid>
+</Window>
