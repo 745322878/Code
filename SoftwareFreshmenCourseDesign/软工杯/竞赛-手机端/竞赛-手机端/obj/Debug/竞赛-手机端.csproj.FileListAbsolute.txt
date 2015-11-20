@@ -1,0 +1,148 @@
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\App.xbf
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\MainPage.xbf
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.xr.xml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.exe
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.pdb
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\resources.pri
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\AppxManifest.xml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.build.appxrecipe
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.i.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.i.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\App.xaml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\App.xbf
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xaml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xbf
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.exe
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.pdb
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml.intermediate
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles.intermediate
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles.intermediate
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles.intermediate
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\ProjectArchitectures.txt
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\bin\Debug\DoSomeThing.xbf
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.i.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.cs
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xaml
+C:\Users\ruihao\Documents\Visual Studio 2013\Projects\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\App.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\DoSomeThing.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\MainPage.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.xr.xml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.exe
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.pdb
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\resources.pri
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\AppxManifest.xml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.build.appxrecipe
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.i.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.i.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.i.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.xaml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xaml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xaml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xbf
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.exe
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.pdb
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml.intermediate
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles.intermediate
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles.intermediate
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles.intermediate
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ruihao\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\ProjectArchitectures.txt
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\App.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\DoSomeThing.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.xr.xml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.exe
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.pdb
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\resources.pri
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\AppxManifest.xml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.build.appxrecipe
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.i.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.xaml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xaml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xaml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\App.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xbf
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.exe
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.pdb
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml.intermediate
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles.intermediate
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles.intermediate
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles.intermediate
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Administrator\Desktop\竞赛-手机端\竞赛-手机端\obj\Debug\ProjectArchitectures.txt
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\App.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\DoSomeThing.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\MainPage.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.xr.xml
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.exe
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.pdb
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\resources.pri
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\AppxManifest.xml
+F:\软工杯\竞赛-手机端\竞赛-手机端\bin\Debug\竞赛-手机端.build.appxrecipe
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.i.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\App.g.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.i.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.g.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.i.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.g.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\XamlTypeInfo.g.cs
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\App.xaml
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xaml
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xaml
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\App.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\DoSomeThing.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\MainPage.xbf
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\XamlSaveStateFile.xml
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.exe
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\竞赛-手机端.pdb
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\priconfig.xml.intermediate
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\layout.resfiles.intermediate
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\resources.resfiles.intermediate
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\pri.resfiles.intermediate
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\qualifiers.txt.intermediate
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\软工杯\竞赛-手机端\竞赛-手机端\obj\Debug\ProjectArchitectures.txt
