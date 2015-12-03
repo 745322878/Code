@@ -33,7 +33,7 @@ namespace 天气预报
             this.InitializeComponent();
             
 
-            Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
+            
         }
 
         private void HardwareButtons_BackPressed(object sender, Windows.Phone.UI.Input.BackPressedEventArgs e)
@@ -45,7 +45,8 @@ namespace 天气预报
             }
             if (frame.CanGoBack)
             {
-                frame.Navigate(typeof(CollectionCity));
+                //frame.Navigate(typeof(CollectionCity));
+                frame.GoBack();
                 e.Handled = true;
             }
 
@@ -81,8 +82,12 @@ namespace 天气预报
         /// 此参数通常用于配置页。</param>
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
         }
-
+        protected override void OnNavigatedFrom(NavigationEventArgs e)
+        {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed -= HardwareButtons_BackPressed;
+        }
         async private void Button_Click(object sender, RoutedEventArgs e)
         {
             Button btn = sender as Button;

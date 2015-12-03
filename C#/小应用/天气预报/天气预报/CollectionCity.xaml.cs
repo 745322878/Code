@@ -32,7 +32,7 @@ namespace 天气预报
         {
             this.InitializeComponent();
          
-            Windows.Phone.UI.Input.HardwareButtons.BackPressed +=HardwareButtons_BackPressed;
+            
         }
 
         private void HardwareButtons_BackPressed(object sender, Windows.Phone.UI.Input.BackPressedEventArgs e)
@@ -42,10 +42,12 @@ namespace 天气预报
                 return ;
 
             if (DeleteAppbar.Visibility == Windows.UI.Xaml.Visibility.Collapsed)
-                frame.Navigate(typeof(MainPage), cityname);
+                frame.GoBack();
+            //frame.Navigate(typeof(MainPage), cityname);
             else if (DeleteAppbar.Visibility == Windows.UI.Xaml.Visibility.Visible)
             {
-                frame.Navigate(typeof(CollectionCity));
+                //frame.Navigate(typeof(CollectionCity));
+                frame.GoBack();
             }
             e.Handled = true;
             
@@ -61,6 +63,8 @@ namespace 天气预报
         /// 此参数通常用于配置页。</param>
         async protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
+
             EditAppbar.Visibility = Windows.UI.Xaml.Visibility.Visible;
             AddAppbar.Visibility = Windows.UI.Xaml.Visibility.Visible;
             FindAppbar.Visibility = Windows.UI.Xaml.Visibility.Visible;
@@ -93,7 +97,10 @@ namespace 天气预报
             }
             Files.ItemsSource = cityName;
         }
-
+        protected override void OnNavigatedFrom(NavigationEventArgs e)
+        {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed -= HardwareButtons_BackPressed;
+        }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Button btn = sender as Button;

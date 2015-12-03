@@ -34,7 +34,7 @@ namespace 天气预报
            
           
              
-            Windows.Phone.UI.Input.HardwareButtons .BackPressed +=HardwareButtons_BackPressed;
+           
         }
 
         private void HardwareButtons_BackPressed(object sender, Windows.Phone.UI.Input.BackPressedEventArgs e)
@@ -46,7 +46,8 @@ namespace 天气预报
             }
             if (frame.CanGoBack )
             {
-                frame.Navigate (typeof(MainPage ),"");
+                frame.GoBack();
+                //frame.Navigate (typeof(MainPage ),"");
                 e.Handled = true;
             }
             
@@ -59,6 +60,7 @@ namespace 天气预报
         /// 此参数通常用于配置页。</param>
         async protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
             if (e.Parameter != null)
             {
                 cityname = new Citys();
@@ -124,6 +126,10 @@ namespace 天气预报
               
             }
            
+        }
+        protected override void OnNavigatedFrom(NavigationEventArgs e)
+        {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed -= HardwareButtons_BackPressed;
         }
         private void FindCity()
         {

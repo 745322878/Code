@@ -109,12 +109,14 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Assets\1.jpeg" />
-    <Content Include="Assets\1.jpg" />
     <Content Include="Assets\2.jpeg" />
     <Content Include="Assets\3.jpg" />
     <Content Include="Assets\4.jpg" />
     <Content Include="Assets\5.jpg" />
     <Content Include="Assets\6.png" />
+    <Content Include="Assets\7.jpeg" />
+    <Content Include="Assets\7.jpg" />
+    <Content Include="Assets\app.jpg" />
     <Content Include="Assets\Logo.scale-240.png" />
     <Content Include="Assets\SmallLogo.scale-240.png" />
     <Content Include="Assets\SplashScreen.scale-240.png" />

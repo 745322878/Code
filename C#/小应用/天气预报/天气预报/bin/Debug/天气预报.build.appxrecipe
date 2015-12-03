@@ -25,8 +25,8 @@
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\2.jpeg">
       <PackagePath>Assets\2.jpeg</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\1.jpg">
-      <PackagePath>Assets\1.jpg</PackagePath>
+    <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\7.jpeg">
+      <PackagePath>Assets\7.jpeg</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\3.jpg">
       <PackagePath>Assets\3.jpg</PackagePath>
@@ -37,20 +37,24 @@
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\5.jpg">
       <PackagePath>Assets\5.jpg</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\7.jpg">
+      <PackagePath>Assets\7.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\app.jpg">
+      <PackagePath>Assets\app.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\6.png">
       <PackagePath>Assets\6.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\Logo.scale-240.png">
       <PackagePath>Assets\Logo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\SmallLogo.scale-240.png">
       <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\SplashScreen.scale-240.png">
       <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Code\C#\小应用\天气预报\天气预报\Assets\Square71x71Logo.scale-240.png">
       <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>

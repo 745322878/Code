@@ -178,7 +178,7 @@
     <Grid>
         <!--<Image Source="ms-appx:///Assets/4.jpg" />-->
         <Grid.Background >
-            <ImageBrush ImageSource="ms-appx:///Assets/4.jpg" />
+            <ImageBrush ImageSource="ms-appx:///Assets/7.jpeg" />
         </Grid.Background>
 
         <Grid.RowDefinitions>
@@ -191,7 +191,7 @@
        
        <TextBox Grid.Row="1" TextChanged="textBox_TextChanged" PointerPressed="textBox_PointerPressed" x:Name="textBox" Style="{StaticResource TextBoxStyle1}" />
          
-        <ListView  Header="近期搜索" x:Name="nearCityFiles"    FontSize="30"  Margin="20,0,20,0" Grid.Row="2" >
+        <ListView  Header="近期搜索" Foreground="Black"  x:Name="nearCityFiles"    FontSize="30"  Margin="20,0,20,0" Grid.Row="2" >
             <ListView.ItemTemplate>
                 <DataTemplate >
                     <Button   Content="{Binding city}"  Click="Button_Click" Width="400" Height="100" FontSize="50" Style="{StaticResource ButtonStyle1}"/>

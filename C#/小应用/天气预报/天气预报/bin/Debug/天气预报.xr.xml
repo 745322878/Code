@@ -104,7 +104,6 @@
       <RootProperty Name="Height" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="Margin" />
-      <RootProperty Name="Background" />
       <RootProperty Name="Visibility" />
       <RootEvent Name="Click" />
     </RootType>
@@ -218,6 +217,7 @@
     <RootType FullName="Windows.UI.Xaml.Controls.ListView">
       <RootProperty Name="ItemTemplate" />
       <RootProperty Name="Header" />
+      <RootProperty Name="Foreground" />
       <RootProperty Name="FontSize" />
       <RootProperty Name="Margin" />
       <RootProperty Name="Name" />

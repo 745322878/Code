@@ -180,7 +180,7 @@
     <Grid>
         <!--<Image Source="ms-appx:///Assets/4.jpg" />-->
         <Grid.Background >
-            <ImageBrush ImageSource="ms-appx:///Assets/4.jpg" />
+            <ImageBrush ImageSource="ms-appx:///Assets/7.jpg" />
         </Grid.Background>
 
         <Grid.RowDefinitions>

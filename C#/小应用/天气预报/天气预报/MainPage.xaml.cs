@@ -47,9 +47,9 @@ namespace 天气预报
              httpClient = new HttpClient();
              Show(cityName );
              this.Loaded += MainPage_Loaded;
-             Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
+             
 
-             SyncAppBarButton_Click(null, null);
+             //SyncAppBarButton_Click(null, null);
         }
 
         void MainPage_Loaded(object sender, RoutedEventArgs e)
@@ -58,6 +58,8 @@ namespace 天气预报
         }
         private void HardwareButtons_BackPressed(object sender, Windows.Phone.UI.Input.BackPressedEventArgs e)
         {
+            
+
             Frame frame = Window.Current.Content as Frame;
             if (frame == null)
             {
@@ -65,7 +67,8 @@ namespace 天气预报
             }
             if (frame.CanGoBack)
             {
-                frame.GoBack();
+                Application.Current.Exit();
+               // frame.GoBack();
                 e.Handled = true;
             }
 
@@ -73,6 +76,8 @@ namespace 天气预报
         
         protected override void OnNavigatedTo(NavigationEventArgs e)
         {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed += HardwareButtons_BackPressed;
+
             if (e.Parameter.ToString() == "天气预报.Citys")             
             {
                 cityName = "西安"; 
@@ -92,7 +97,10 @@ namespace 天气预报
           
       
         }
-        
+        protected override void OnNavigatedFrom(NavigationEventArgs e)
+        {
+            Windows.Phone.UI.Input.HardwareButtons.BackPressed -= HardwareButtons_BackPressed;
+        }
         public static WeatherData JsonAnalytical(string jsonString)
         {
             DataContractJsonSerializer obj = new DataContractJsonSerializer(typeof(WeatherData));
