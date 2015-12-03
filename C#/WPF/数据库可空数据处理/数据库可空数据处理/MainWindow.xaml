@@ -1,0 +1,20 @@
+﻿<Window x:Class="数据库可空数据处理.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel  Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBox  Width="200" Height="50" Margin="0,30" x:Name="name"/>
+                <TextBox  Width="200" Height="50" Margin="0,0,0,50" x:Name="age"/>
+                <TextBox  Width="200" Height="50" x:Name="height" />
+            </StackPanel>
+            <StackPanel>
+                <Button  Width="200" Height="50" Content="可空数据录入" FontSize="20" Margin="0,50" Click="Button_Click"/>
+                <TextBlock Text="请输入Id"  FontSize="20"/>
+                <TextBox  Width="200" Height="30" Name="id" />
+                <Button  Width="200" Height="50" Content="读取可空数据" FontSize="20" Click="Button_Click_1"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

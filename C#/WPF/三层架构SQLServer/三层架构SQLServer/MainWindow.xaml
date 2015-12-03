@@ -1,0 +1,18 @@
+﻿<Window x:Class="三层架构SQLServer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel  Orientation="Horizontal">
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Left">
+                <TextBox  Width="200" Height="50" Margin="0,30" x:Name="txtname"/>
+                <TextBox  Width="200" Height="50" Margin="0,0,0,50" x:Name="txtage"/>
+                <TextBox  Width="200" Height="50" x:Name="txtheight" />
+            </StackPanel>
+            <StackPanel>
+                <Button  Width="200" Height="50" Content="可空数据录入" FontSize="20" Margin="0,50" Click="Button_Click"/>
+             
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

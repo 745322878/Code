@@ -1,0 +1,13 @@
+﻿<Window x:Class="Get_CityName.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+       
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Column="1" Margin="48,0,59,0" Grid.ColumnSpan="2">
+            <ListBox Name="lbprovince" Width="100" Height="300" DisplayMemberPath="AreaName" SelectionChanged="lbprovince_SelectionChanged"/>
+            <ListBox Name="lbcity"  Width="100" Height="300" Margin="50,0" DisplayMemberPath="AreaName"/>
+            <ListBox Name="county" Width="100" Height="300" />
+        </StackPanel>
+    </Grid>
+</Window>

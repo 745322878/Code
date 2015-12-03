@@ -1,0 +1,40 @@
+MD5算法 
+MD5算法是一种散列（指纹）算法，不是加密算法，MD5是不可逆的，任何加密算法都是可逆的
+MD5算法是不可逆的，只能由给定的内容（密码）推出MD5值，不能由MD5值反推出所给内容（密码），所以MD5相对是安全的
+但是不同的内容（密码）可能推出相同的MD5值，但是这概率非常非常非常低！！！
+
+MD5:
+User 	Password
+123	A933D13F81649BEBE035DC21F4002FF1
+abc	70350F6027BCE3713F6B76473084309B
+
+MD5算法：
+public static string GetMD5(string sDataIn)
+        {
+            MD5CryptoServiceProvider md5 = new MD5CryptoServiceProvider();
+            byte[] bytValue, bytHash;
+            bytValue = System.Text.Encoding.UTF8.GetBytes(sDataIn);
+            bytHash = md5.ComputeHash(bytValue);
+            md5.Clear();
+            string sTemp = "";
+            for (int i = 0; i < bytHash.Length; i++)
+            {
+                sTemp += bytHash[i].ToString("X").PadLeft(2, '0');
+            }
+            return sTemp.ToLower();
+        }
+MD5"破解"的说法：
+真正的破解是指由MD5值反推出密码值，但是MD5算法本身是不可逆的，所以没有真正的破解（eg：在找回密码时，是让你重新设置密码，而不是给你找回旧密码，原因就在他们也不知道你的旧密码）
+这里的MD5"破解"的意思是增加了MD5值的碰撞几率（eg：不同的密码碰撞出同一个MD5值的时间由一万年变为了一百年），
+而网上的MD5破解工具的确可以获取到MD5值对应的密码，这是怎么一回事呢？？？
+https://www.baidu.com/baidu?tn=56060048_4_pg&ie=utf-8&ssl_s=1&ssl_c=ssl1_1515cb05590&word=MD5&searchRadio=on
+其实他们在数据库（存一些常用、简单密码和其对应的MD5值）中穷举MD5值，之后返回他的密码，
+当然这只适合简单的密码，所以设置密码时都会提示密码复杂度，在他们那个数据库中找到复杂密码对应的MD5很难很难
+
+
+为了针对密码简单的客户的密码安全问题，产生了MD5加盐这一方法
+MD5加盐：
+
+GetMD5(password+给定字符串)
+
+这样给定内容变得复杂，基本无法找到，就算黑客找到也是password+给定的字符串，也无法准确获取到password

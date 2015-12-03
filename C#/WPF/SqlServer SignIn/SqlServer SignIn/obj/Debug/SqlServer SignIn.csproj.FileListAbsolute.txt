@@ -1,0 +1,15 @@
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\bin\Debug\SqlServer SignIn.exe.config
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\bin\Debug\SqlServer SignIn.exe
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\bin\Debug\SqlServer SignIn.pdb
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\MainWindow.baml
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\MainWindow.g.cs
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\App.g.cs
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn_MarkupCompile.cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn.g.resources
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer_SignIn.Properties.Resources.resources
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn.exe
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\SqlServer SignIn.pdb
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\Window1.baml
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\SqlServer SignIn\SqlServer SignIn\obj\Debug\Window1.g.cs

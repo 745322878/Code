@@ -1,0 +1,37 @@
+﻿<Window x:Class="SqlServerSmallItem.CustomerListUI"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CustomerListUI" Height="400" Width="720" WindowState="Normal"
+        Loaded="Window_Loaded">
+    <Grid>
+        <DockPanel>
+            <ToolBar DockPanel.Dock="Top" Height="40" >
+                <Button Click="add_Click">
+                    <Image  Source="Image/add.jpg"/>
+                </Button>
+                <Button Click="edit_Click">
+                    <Image Source="Image/edit.png" />
+                </Button>
+                <Button Click="delete_Click">
+                    <Image Source="Image/delete.png" />
+                </Button>
+                <Button Click="search_Click">
+                    <Image Source="Image/search.png" />
+                </Button>
+                <TextBox Width="390" x:Name="txtSearch" TextChanged="txtSearch_TextChanged">
+                </TextBox>
+            </ToolBar>
+            <DataGrid IsReadOnly="True"  DockPanel.Dock="Top" x:Name="gridCustomers" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="姓名" Width="100" Binding="{Binding Name}"  FontSize="15" />
+                    <DataGridTextColumn Header="班级" Width="100" Binding="{Binding Class}" FontSize="15" />
+                    <DataGridTextColumn Header="学号" Width="100" Binding="{Binding Number}" FontSize="15" />
+                    <DataGridTextColumn Header="电话" Width="120" Binding="{Binding TelPhone}" FontSize="15" />
+                    <DataGridTextColumn Header="学校" Width="100" Binding="{Binding School}" FontSize="15" />
+                    <DataGridTextColumn Header="爱好" Width="100" Binding="{Binding Hobbies}" FontSize="15" />
+                    <DataGridTextColumn Header="成绩" Width="100" Binding="{Binding Score}" FontSize="15" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </DockPanel>
+    </Grid>
+</Window>

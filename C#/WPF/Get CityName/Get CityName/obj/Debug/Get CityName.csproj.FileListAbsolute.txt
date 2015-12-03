@@ -1,0 +1,13 @@
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\bin\Debug\Get CityName.exe.config
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\bin\Debug\Get CityName.exe
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\bin\Debug\Get CityName.pdb
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName.csprojResolveAssemblyReference.cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\MainWindow.baml
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\MainWindow.g.cs
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\App.g.cs
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName_MarkupCompile.cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName.g.resources
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get_CityName.Properties.Resources.resources
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName.csproj.GenerateResource.Cache
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName.exe
+F:\Microsoft Visual Studio 12.0\Myproject\WPF\Get CityName\Get CityName\obj\Debug\Get CityName.pdb

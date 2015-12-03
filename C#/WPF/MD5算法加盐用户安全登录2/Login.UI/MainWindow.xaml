@@ -1,0 +1,16 @@
+﻿<Window x:Class="Login.UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <DockPanel >
+            <Menu DockPanel.Dock="Top" Height="30">
+                <MenuItem Header=" 系统">
+                    <MenuItem Name="login" Header="登录" Click="loginClick" />
+                </MenuItem>
+            </Menu>
+            <StackPanel  DockPanel.Dock="Top"/>
+        </DockPanel>
+
+    </Grid>
+</Window>
