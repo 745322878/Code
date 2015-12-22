@@ -1,6 +1,0 @@
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\bin\Debug\长度可变参数.exe.config
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\bin\Debug\长度可变参数.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\bin\Debug\长度可变参数.pdb
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\obj\Debug\长度可变参数.csprojResolveAssemblyReference.cache
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\obj\Debug\长度可变参数.exe
-F:\Microsoft Visual Studio 12.0\Myproject\C#语法\长度可变参数\长度可变参数\obj\Debug\长度可变参数.pdb
