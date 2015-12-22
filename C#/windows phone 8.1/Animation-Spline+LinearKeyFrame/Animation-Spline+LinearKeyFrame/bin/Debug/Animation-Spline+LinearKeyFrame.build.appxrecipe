@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WYZ</Machine>
+    <WindowsUser>xz</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>60f4966d-e06a-440d-94a8-8d42a2d8440b</PackageIdentityName>
+    <IntermediateOutputPath>F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\Animation-Spline+LinearKeyFrame.exe">
+      <PackagePath>Animation-Spline+LinearKeyFrame.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\Animation-Spline+LinearKeyFrame.xr.xml">
+      <PackagePath>Animation-Spline+LinearKeyFrame.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Microsoft Visual Studio 12.0\Myproject\windows phone 8.1\Animation-Spline+LinearKeyFrame\Animation-Spline+LinearKeyFrame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="Socket__ChatRoom.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Socket__ChatRoom"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="ms-appx:///Assets/2.png"/>
+        </Grid.Background>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock  Text="IP地址"  FontSize="50" Foreground="Black" Width="150"/>
+                <TextBox x:Name="ipText" Text="10.0.0.4" Width="250"  HorizontalAlignment="Right"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" Margin="0,50">
+                <TextBlock  Text="端口" FontSize="50" Foreground="Black" Width="150"/>
+                <TextBox x:Name="portText" Text="11111" Width="250" HorizontalAlignment="Right" />
+            </StackPanel>
+            <Button  Content="连接" Foreground="Black" FontSize="30" Width="100" Height="80" HorizontalAlignment="Center" Click="Button_Click"/>
+        </StackPanel>
+    </Grid>
+</Page>

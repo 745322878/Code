@@ -1,0 +1,38 @@
+﻿<Page
+    x:Class="Animation_SkewTransform.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Animation_SkewTransform"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Rectangle x:Name="rectangle" Width="200" Height="269" Fill="SpringGreen" Stroke="White" StrokeThickness="5" >
+            <Rectangle.RenderTransform>
+                <SkewTransform x:Name="rectangle1">
+                    <SkewTransform.AngleY  >
+                      0
+                    </SkewTransform.AngleY>
+                </SkewTransform>
+            </Rectangle.RenderTransform>
+
+        </Rectangle>
+        <Grid.Resources>
+            <Storyboard x:Name="myStoryboard" >
+                <DoubleAnimationUsingKeyFrames Storyboard.TargetName="rectangle"
+                                               Storyboard.TargetProperty="(UIElement.RenderTransform).(SkewTransform.AngleY)"
+                                               RepeatBehavior="Forever">
+                    <LinearDoubleKeyFrame  KeyTime="0:0:3" Value="-17"/>
+                    
+                </DoubleAnimationUsingKeyFrames>
+                <PointAnimationUsingKeyFrames Storyboard.TargetName="rectangle"
+                                              Storyboard.TargetProperty="(UIElement.RenderTransformOrigin)" BeginTime="0:0:0">
+                    <LinearPointKeyFrame    KeyTime="0:0:3" Value="1,0.5"/>
+                </PointAnimationUsingKeyFrames>
+            </Storyboard>
+        </Grid.Resources>
+    </Grid>
+        
+</Page>
